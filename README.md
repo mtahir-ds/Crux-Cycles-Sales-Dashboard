@@ -68,7 +68,7 @@ To explore this project on your own machine, follow these steps:
 2.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/MuhammadTahir-1-9-4/Crux-Cycles-Sales-Dashboard.git
+    git clone https://github.com/mtahir-ds/Crux-Cycles-Sales-Dashboard.git
     cd Crux-Cycles-Sales-Dashboard
     ```
 
